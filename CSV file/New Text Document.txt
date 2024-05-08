@@ -1,0 +1,15 @@
+Selenium
+
+1) new->
+dono thick maven project
+2) pox.xml-> dependency add kro
+- selenium java
+- testng
+-junit
+3) src/test/java -> package(seleniumDemo) -> new file(seleniumexg.java)
+4) (code) blazemeter(selenium + testng)
+and yha new package and java file bnna k paste kr laina
+5) run as testNG
+
+
+cucumber-
